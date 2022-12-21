@@ -22,5 +22,5 @@ includes:
   - v1/errors.md
   - v1/vendor_review
 
-search: false
+search: true
 ---
